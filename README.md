@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BlackSniper777
-- 👀 I’m interested in planes and keybaords.
+- 👀 I’m interested in planes and keyboards.
 - 🌱 I’m currently learning to code form scratch
-- 💞️ I’m looking to collaborate on any keybaord code
+- 💞️ I’m looking to collaborate on any keyboard code
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The Airbus A380 is the largest plane in the world!
 
